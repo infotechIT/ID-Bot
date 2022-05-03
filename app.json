@@ -1,8 +1,9 @@
 {
   "name": "ID Bot",
   "description": "Telegram bot to get id of any user, group, bot, channels and even stickers.",
-  "logo": "https://telegra.ph/file/784c14c76533f944ae9b0.jpg",
-  "keywords": [
+  "logo": "https://telegra.ph/file/784c14c76533f944ae9b0.jpg"
+  "repository: "https://github.com/infotechIT/ID-Bot"
+  "keywords":
     "telegram",
     "bot",
     "python",
