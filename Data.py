@@ -28,7 +28,7 @@ By @infotechIT
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
         [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/infotechIT")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/It_Bot_supporterst")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/It_Bot_supporters")],
     ]
 
     # Help Message
