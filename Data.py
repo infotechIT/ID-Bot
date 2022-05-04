@@ -22,7 +22,7 @@ By @infotechIT
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/infotechbots/247")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/infotechbots/24")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
