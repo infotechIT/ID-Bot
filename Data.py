@@ -56,7 +56,7 @@ By @infotechIT
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to get id of any user, group, bot, channels and even stickers. by @StarkBots
+A telegram bot to get id of any user, group, bot, channels and even stickers. by @infotechIT
 
 Source Code : [Click Here](https://github.com/infotechIT/ID-Bot)
 
